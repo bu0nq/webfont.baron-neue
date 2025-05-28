@@ -2,7 +2,7 @@
   "name": "@bu0nq/webfont.baron-neue",
   "version": "0.1.0",
   "description": "Package for integrating WebFont Baron Neue",
-  "main": "hero.css",
+  "main": "baron-neue.css",
   "files": [
     "**/*.{woff2, woff}",
     "**/*.{css, less, scss}"
