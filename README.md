@@ -78,16 +78,16 @@ body {
 ### Importing
 
 ```scss
-@import "~@bu0nq/webfont.baron-neue/scss/baron-neue";
-@import "~@bu0nq/webfont.baron-neue/scss/baron-neue-normal";
+@use "~@bu0nq/webfont.baron-neue/scss/baron-neue";
+@use "~@bu0nq/webfont.baron-neue/scss/baron-neue-normal";
 ```
 
 To import specific fonts, you can use:
 
 ```scss
-@import "~@bu0nq/webfont.baron-neue/scss/baron-neue-400-normal";
-@import "~@bu0nq/webfont.baron-neue/scss/baron-neue-700-normal";
-@import "~@bu0nq/webfont.baron-neue/scss/baron-neue-900-normal";
+@use "~@bu0nq/webfont.baron-neue/scss/baron-neue-400-normal";
+@use "~@bu0nq/webfont.baron-neue/scss/baron-neue-700-normal";
+@use "~@bu0nq/webfont.baron-neue/scss/baron-neue-900-normal";
 ```
 
 ## Licensing
